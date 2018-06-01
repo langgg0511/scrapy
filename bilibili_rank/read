@@ -1,0 +1,4 @@
+爬取B站各排行版并存储数据库
+
+运行：
+scrapy crawl bilibili
