@@ -1,0 +1,16 @@
+User-Agent: *
+Allow: /
+Allow: /*.css
+Allow: /*.js
+
+Sitemap:https://www.qidian.com/newsitemap/booksitemap.xml
+Sitemap:https://www.qidian.com/newsitemap/forum/forumsitemap.xml
+Sitemap:https://www.qidian.com/newsitemap/author/authorsitemap.xml
+Sitemap:https://www.qidian.com/newsitemap/chapter/chaptersitemap.xml
+Sitemap:https://www.qidian.com/newsitemap/category/categorysitemap.xml
+Sitemap:https://m.qidian.com/msitemap/book/booksitemap.xml
+Sitemap:https://m.qidian.com/msitemap/author/authorsitemap.xml
+Sitemap:https://m.qidian.com/msitemap/chapter/chaptersitemap.xml
+Sitemap:https://m.qidian.com/msitemap/catalog/catalogsitemap.xml
+Sitemap:https://m.qidian.com/msitemap/category/categorysitemap1.xml
+Sitemap:https://m.qidian.com/msitemap/category/categorysitemap2.xml
